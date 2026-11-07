@@ -1,0 +1,6 @@
+{
+  "repo": "Qwen/Qwen3-Reranker-4B",
+  "revision": "22e683669bc0f0bd69640a1354a6d0aebcfeede5",
+  "weights": "public generic pretrained",
+  "additional_training": false
+}
